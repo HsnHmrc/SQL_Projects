@@ -31,7 +31,7 @@ You can explore my collection of **SQL queries** written in **PostgreSQL**. Each
 
 ## 📊 **Visualizations**
 
-👉 I shared some projects individually and also visualized them on **Power BI**. You can find their visualizations both in the project file I shared individually and in the **Power_BI_Projects*** repo.
+👉 I shared some projects individually and also visualized them on **Power BI**. You can find their visualizations both in the project file I shared individually and in the **Power_BI_Projects** repo.
 
 ### 💡 Note:
 Visualizations can also be replicated in **Excel**, but my preferred tool is **Power BI**.
